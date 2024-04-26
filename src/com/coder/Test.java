@@ -16,6 +16,8 @@ public class Test {
         System.out.println("hello github web");
         System.out.println("hello gitee idea");
         System.out.println("hello gitee web");
-        System.out.println("测试推送到github");
+        System.out.println("测试推送到gitee");
+        System.out.println("取消gitee的证书，尝试推送到gitee");
+        System.out.println("");
     }
 }
